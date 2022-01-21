@@ -1,0 +1,199 @@
+bplist00—_WebMainResource’	
+_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMETypeUUTF-8_Phttps://polaris.brighterir.com/public/apollon_formularies/news/rns/story/x8ql8jxPOc<html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <style>
+	.custom-content-wrapper {
+		font-family: sans-serif;
+		margin-bottom: 0.5em;
+        width: 100%;
+
+
+
+        /* flex experiment */
+        display: inline-flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+	}
+    .custom-content-wrapper img {
+        border: 0;
+    }
+
+    .container-left,
+    .container-right {
+        /*width: calc(99.99%/2 - 1em);*/
+        vertical-align: top;
+        /*display: inline-block;*/
+
+
+
+
+
+        /* flex experiment */
+        width: auto;
+    }
+	.container-right {
+        text-align: right;
+
+
+
+        /* flex experiment */
+        display: flex;
+        flex-wrap: nowrap;
+	}
+	.logo {
+        max-width: 150px;
+        margin-right: 0.5em;
+	}
+
+	.media-button-container {
+	    /*display: inline-block;*/
+	    margin-right: 15px;
+        vertical-align: top;
+
+        display: flex;
+        flex-wrap: nowrap;
+	}
+	.media-button-container a,
+	.media-button-container a:hover,
+	.media-button-container a:visited,
+	.media-button-container a:focus {
+        /*display: inline-block;*/
+	}
+    .media-button-container img {
+        width: 2em;
+        height: auto;
+        margin-right: 0.5em;
+    }
+	.close-button {
+		display: inline-block;
+        font-size: 0.8rem;
+        color: #4e4e4e;
+        border: 1px solid #9c9c9c;
+        background-color: #e8e8e8;
+        padding: 0.5em;
+        cursor: pointer;
+        width: 5em;
+        text-align: center;
+	}
+
+    @media (max-width: 750px) {
+        .media-button-container img {
+            margin-right: 0.8em;
+        }
+    }
+
+    @media (max-width: 500px) {
+        .custom-header-wrapper {
+            flex-direction: column-reverse;
+        }
+        .custom-header-wrapper .container-left {
+            margin-top: 0.5em;
+        }
+    }
+</style></head>
+<body>
+    
+    <!-- Begin Story Content -->
+            
+
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+                <style></style>
+    
+
+
+ 
+
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<title></title>
+<meta name="generator" content="RNS">
+<style type="text/css">
+
+
+
+
+
+
+
+
+ol{margin-bottom:0cm;}ul{margin-bottom:0cm;}link{ color: #0563C1 }visited{ color: #954F72 }
+.y{size:612.0pt 792.0pt;margin:72.0pt 72.0pt 72.0pt 72.0pt;}div.y{}p.at{margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:11.0pt;font-family:"Calibri","sans-serif";font-weight: bold; text-align: right}span.ar{font-size:12.0pt;line-height:107%}p.au{margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:11.0pt;font-family:"Calibri","sans-serif";font-weight: bold; text-align: center}span.ap{font-size:14.0pt;line-height:107%}p.av{margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify}span.an{background:white}span.al{color:#212721}p.aw{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";text-align: center}
+span.ak{font-size:11.0pt; font-family:"Calibri","sans-serif";color:black}p.m,li.m,div.m{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";}span.ai{font-size:11.0pt;font-family:"Calibri","sans-serif"; color:black}span.ah{font-size:11.0pt;font-family: "Calibri","sans-serif"}span.ag{font-size: 11.0pt;font-family:"Calibri","sans-serif";color:black}p.ax{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";font-weight: bold}p.o,li.o,div.o{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";}span.ay{color: black; font-family: "Calibri","sans-serif"; font-size: 11.0pt; text-decoration: underline}span.ad{font-size:11.0pt; font-family:"Calibri","sans-serif"}p.az{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";font-weight: bold}
+p.ba{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";font-weight: bold; text-align: justify}p.bb{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";text-align:justify}p.bc{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";margin:0cm;margin-bottom:.0001pt;text-align:justify}span.bd{color: black; font-family: "Calibri","sans-serif"; font-size: 11.0pt; font-weight: bold}p.be{margin-right:0cm;margin-left:0cm;font-size:12.0pt;font-family:"Times New Roman","serif";margin:0cm;margin-bottom:.0001pt;text-align:justify}span.bf{font-size:11.0pt;font-family:"Calibri","sans-serif"; color:black}p.bg{margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;line-height:107%;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;text-indent:-18.0pt}p.bh{margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;margin-bottom:.0001pt;line-height:107%;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;text-indent:-18.0pt}p.bi{margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:36.0pt;line-height:107%;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;text-indent:-18.0pt}p.a,li.a,div.a{margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:11.0pt;font-family:"Calibri","sans-serif";}
+
+
+
+
+
+</style>
+
+<img data-src="http://tracker.live.rns-distribution.com/track.live-rns/4048182_6b796387bafb461f41df962c3713dcaf.png" width="1" height="1"><div style="text-align:left;font-family:Arial, Helvetica, sans-serif; font-size: 10pt;"><div>RNS Number : 5858F</div>  <div><org value="NEX:APOL" idsrc="xmltag.org">Apollon Formularies plc</org></div>  <div><chron>19 July 2021</chron></div>  <div>&nbsp;</div></div>
+<div class="y">
+<p class="at"><span class="ar"><chron>19 July 2021</chron></span></p>
+<p class="au"><span class="ap">Apollon Formulations Kill Prostate Cancer Cells</span></p>
+<p class="au"><span class="ap">&nbsp;</span></p>
+<p class="av"><span style="font-weight: bold;"><span class="an"><org value="NEX:APOL" idsrc="xmltag.org">Apollon Formularies Plc</org>&nbsp;(AQSE: APOL)&nbsp;("Apollon"&nbsp;</span></span><span class="an">or the<span style="font-weight: bold;">&nbsp;"Company")</span>, a <location value="LC/gb" idsrc="xmltag.org">UK</location> based international pharmaceutical company trading on the <org>Aquis Stock Exchange</org> is pleased to announce that its medical cannabis formulations were shown to be effective in killing both hormone-resistant and hormone-sensitive prostate cancer cells in 3D cell cultures in third party independent laboratory testing. ¬π This finding is in addition to the results recently announced on <chron>May 18</chron>, 2021¬≤ that Apollon formulations were successful in killing HER2+ breast cancer cells, and the announcement on <chron>June 28</chron>, 2021¬≥ that Apollon formulations were successful in killing triple-negative breast cancer cells. This testing was performed under a joint testing agreement&nbsp;<span style="font-weight: bold;">with Aion Therapeutic Inc.&nbsp;(CSE: AION)&nbsp;("Aion")</span>,a BC based international pharmaceutical company trading on the Canadian Securities Exchange.&nbsp;</span></p>
+<p class="av"><span class="an">The medical cannabis formulations were developed by&nbsp;<span style="font-weight: bold;"><org>Apollon Formularies Jamaica Limited</org> ("Apollon Jamaica")</span>. </span></p>
+<p class="av"><span>Prostate cancer is the second most frequent malignancy, after lung cancer, in men worldwide, counting 1,276,106 new cases and causing 358,989 deaths, which equates to 3.8% of all deaths caused by cancer in men, in 2018. The incidence and mortality of prostate cancer worldwide correlate with increasing age, with the average age at the time of diagnosis being 66 years. Of note, for <org>African American</org> men, the incidence rates are higher when compared to White men, with 158.3 new cases diagnosed per 100,000 men and their mortality is approximately twice that of White men. ‚Å¥&nbsp;</span></p>
+<p class="av"><span>According to a recent report published by Fior Markets, the&nbsp;global prostate cancer treatment market&nbsp;is expected to grow from <money>USD 7.22 billion</money> in 2019 and to reach <money>USD 10.67 billion</money> by 2027, growing at a CAGR of 5% during the forecast period 2020-2027. </span><span>‚Åµ</span></p>
+<p class="av"><span>The testing was performed by BIOENSIS, an independent, pre-clinical predictive pharmaceutical testing laboratory. The testing results showed that Apollon Jamaica's medical cannabis formulations were effective in killing living hormone-sensitive and hormone-resistant prostate cancer cells directly (direct cytotoxicity). The formulations killed nearly 100% of the prostate cancer cells in 3D cell cultures. </span><span>‚Å∂</span></p>
+<p class="av"><span>The testing occurred as a part of a Joint Testing Agreement between the parties and was authorized in accordance with Apollon Jamaica's Research &amp; Development licence issued by the Jamaican government's <org>Cannabis Licensing Authority</org> (CLA). </span></p>
+<p class="av"><span style="font-weight: bold;"><span><person>Stephen D. Barnhill</person>, M.D., CEO of Apollon,&nbsp;commented,</span></span><span>&nbsp;"Cannabinoids have been seen to exert 'antitumor' effects by a number of different means, including killing cancer cells directly as well as inhibiting transformed cell growth and tumor metastasis.</span><span> ‚Å∑</span><span> Apollon Jamaica, using results from its proprietary artificial intelligence-based analysis on strain genetics, has cultivated and processed certain of its proprietary medical cannabis products with cancer treatment expressly in mind. We are extremely excited that our proprietary medical cannabis formulations have been validated via independent laboratory testing to kill both hormone-sensitive and hormone-resistant prostate cancer cells in 3D cell cultures via direct cytotoxicity. This is in addition to &nbsp;our Apollon medical cannabis formulations killing HER2+ breast cancer cells and Triple Negative Breast Cancer (TNBC) cells in 3D cell culture as recently announced."</span></p>
+<p class="av"><span style="font-weight: bold;"><span>Dr.&nbsp;<person>Herbert A. Fritsche</person>, Chief Science Officer of Apollon, and former Professor and Director of Clinical Chemistry at the&nbsp;<org value="ACORN:3366263282" idsrc="xmltag.org">University of&nbsp;Texas, MD Anderson Cancer Center</org>, stated</span></span><span>,&nbsp;"These remarkable results demonstrating the ability of the Apollon formulations to directly kill nearly 100% of prostate cancer cells in 3D cell culture provide us independent scientific evidence of the success of these products in pre-clinical testing. Pursuant to the Research &amp; Development and the Retail-Therapeutic medical cannabis licences issued to Apollon Jamaica by the <org>Jamaican Cannabis Licensing Authority</org> (CLA), we intend to make these formulations immediately available to licensed Jamaican physicians experienced in prescribing Apollon products, allowing them to begin immediately treating patients who have prostate cancer in&nbsp;<location value="LC/jm" idsrc="xmltag.org">Jamaica</location>&nbsp;where the companies' formulations are currently available by physician prescription. This will allow us to supplement these impressive laboratory results with clinical data from the treatment of human patients."</span></p>
+<p class="av"><span style="font-weight: bold;"><span>Commented&nbsp;Mr.&nbsp;<person>Paul Burke</person>, Chairman, and CEO of Apollon Jamaica,&nbsp;</span></span><span>"These Apollon formulation test results on prostate cancer and the plan to immediately begin treatments in&nbsp;<location value="LC/jm" idsrc="xmltag.org">Jamaica</location>&nbsp;are extremely exciting developments for Jamaican men, in part, because traditional chemotherapy, radiation, and surgery cancer treatment protocols are expensive and require a great deal of infrastructure. As a result, many men in&nbsp;<location value="LC/jm" idsrc="xmltag.org">Jamaica</location>&nbsp;and worldwide have gone without treatment or with only limited treatment." The Apollon Jamaica Chairman went on to say, "The Apollon medical cannabis formulations are expected to be comparatively much less expensive, providing an opportunity for more men to have their prostate cancer treated. I look forward to bringing these formulations to market as quickly as possible and in a manner that allows Jamaican men with prostate cancer, as well as men traveling from international locations to&nbsp;<location value="LC/jm" idsrc="xmltag.org">Jamaica</location>&nbsp;as medical tourists for our treatment, to have access to high quality complementary and alternative medical care." &nbsp;</span></p>
+<p class="av"><span>Apollon and Aion expect to negotiate a joint licence agreement whereby Aion's subsidiary AI Pharmaceuticals Jamaica Limited&nbsp;(AI Pharma) may exclusively license and use Apollon Jamaica's medical cannabis proprietary and intellectual property protected formulations to manufacture&nbsp;products for sale in the US and&nbsp;<location value="LC/ca" idsrc="xmltag.org">Canada</location>,&nbsp;where legally allowed. This intellectual property licence would allow Apollon to benefit from Aion's sales in the US and&nbsp;<location value="LC/ca" idsrc="xmltag.org">Canada</location>, where Apollon Jamaica is unable to sell medical cannabis products under current US and&nbsp;<location value="LC/gb" idsrc="xmltag.org">UK</location>&nbsp;law. In both instances, medical care will be provided by physicians authorized to prescribe and/or recommend medical cannabis medications and treat patients in their jurisdictions.</span></p>
+<p class="av"><span class="al"><person>Stephen D. Barnhill</person>, CEO of Apollon, is also the Executive Chair of the Board of Aion Therapeutic Inc.</span></p>
+<p class="av"><span>The Directors of the Company take responsibility for this announcement.</span></p>
+<p class="aw"><span class="ak">- End -</span></p>
+<p class="m"><span class="ai">For additional information, please visit&nbsp;</span><span class="ah"><a href="http://www.apollon.org.uk/">www.apollon.org.uk</a></span><span class="ag">&nbsp;or contact:</span></p>
+<p class="ax"><span class="ai">Apollon Formularies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p class="o"><span class="ai">Tel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +44 207 907 9314</span></p>
+<p class="o"><span class="ai">Stene Jacobs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="ah"><a href="mailto:stene@apollon.org.uk">stene@apollon.org.uk</a></span><span class="ay">&nbsp;</span></p>
+<p class="o"><span class="ai">&nbsp;</span></p>
+<p class="ax"><span class="ai">Peterhouse Capital Limited&nbsp;(Corporate Adviser) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p class="o"><span class="ai">Tel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +44 207 220 9795</span></p>
+<p class="o"><span class="ai">Guy Miller&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="ad"><a href="mailto:gm@peterhousecapital.com">gm@peterhousecapital.com</a></span></p>
+<p class="az"><span class="ai">&nbsp;</span></p>
+<p class="ax"><span class="ai">Blytheweigh (Financial PR/IR-London)&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p class="o"><span class="ai">Tel:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +44 207 138 3204</span></p>
+<p class="o"><span class="ai">Tim Blythe&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="ad"><a href="mailto:tim.blythe@blytheweigh.com">tim.blythe@blytheweigh.com</a></span></p>
+<p class="o"><span class="ai">Megan Ray&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="ad"><a href="mailto:megan.ray@blytheweigh.com">megan.ray@blytheweigh.com</a></span><span class="ay">&nbsp;</span></p>
+<p class="m"><span class="ai">&nbsp;</span></p>
+<p class="ba"><span class="ak"><org>About&nbsp;Apollon Formularies plc</org></span></p>
+<p class="bb"><span class="ak"><br>
+Apollon Formularies plc&nbsp;is an international medical cannabis company headquartered in the&nbsp;United Kingdom.&nbsp;Apollon Formularies Jamaica Limited&nbsp;is a pharmaceutical company incorporated and operating in the Commonwealth of&nbsp;Jamaica&nbsp;and a contractual affiliate&nbsp;of Apollon.&nbsp; Apollon Jamaica is licensed by the Jamaican government's&nbsp;Cannabis Licensing Authority&nbsp;(CLA) to purchase cannabis under tripartite agreements from licensed cultivators, process, perform research and development, and sell medical cannabis therapeutic products that include legal medical cannabis in order to treat various illnesses under medical supervision.</span></p>
+<p class="bb"><span class="ak">&nbsp;</span></p>
+<p class="ba"><span class="ak"><org>About&nbsp;Aion Therapeutic Inc.</org></span></p>
+<p class="bb"><span class="ak"><br>
+<org>Aion Therapeutic Inc.</org>&nbsp;is an international pharmaceutical, nutraceutical and cosmeceuticals business headquartered in&nbsp;Canada. AI Pharma is a wholly owned subsidiary of Aion that is in the business of research and development of formulations and products that utilize mushrooms (functional and ones including psilocybin), fungi, and other natural formulations from medicinal plants in a legal environment that permits such work and discoveries. AI Pharma&nbsp;is focused upon the development of medicinal antiviral, antimicrobial, anti-inflammatory, anti-hyperglycaemic, and anti-cancer compounds for use with the treatment of various diseases and ailments as well as general health promotion.</span></p>
+<p class="bb"><span class="ak">&nbsp;</span></p>
+<p class="ba"><span class="ak">About BIOENSIS</span></p>
+<p class="bb"><span class="ak"><br>
+BIOENSIS is the solution of choice of predictive pharmacology needs led by a scientific team with more than 40 years of combined experience in preclinical pharmacology. BIOENSIS is the premiere innovator of 3D pharmacology technologies that more accurately recapitulate the microenvironment of human tissues and tumours. Their cutting-edge technology has been validated and optimized in more than 130 cell lines and primary tissues, and their flexible technology enables assay customization and optimization for additional cell lines and organ tissues. They have a demonstrated track record of unparalleled commitment to and collaboration with customers to achieve their predictive pharmacology objectives.</span></p>
+<p class="bb"><span class="ak">&nbsp;</span></p>
+<p class="ba"><span class="ak">Stephen D. Barnhill, M.D.</span></p>
+<p class="bb"><span class="ak"><br>
+Dr. Barnhill is a physician, fellowship trained in Laboratory Medicine and an expert in Artificial Intelligence (AI), an inventor on more than 40 patents globally and a pharmaceutical and biotech executive with experience as a CEO in both private and public companies in&nbsp;the United States&nbsp;and internationally. Dr. Barnhill is the Chairman and CEO of Apollon and the President and a 49% shareholder of Apollon Jamaica, which shares he holds for the benefit of Apollon. Dr. Barnhill is also the Executive Chairman of Aion and serves as a director and executive officer of AI Pharma.</span></p>
+<p class="av"><span>&nbsp;</span></p>
+<p class="bc"><span class="bd">Disclaimer &amp; Reader Advisory</span></p>
+<p class="be"><span class="bf">Certain statements contained in this press release constitute forward-looking information. These statements relate to future events or future performance. The use of any of the words "could", "intend", "expect", "believe", "will", "may", "projected", "estimated" and similar expressions and statements relating to matters that are not historical facts are intended to identify forward-looking information and are based on the Company's current belief or assumptions as to the outcome and timing of such future events. Actual future results may differ materially. In particular, this release contains forward-looking information relating to the business of the Company. Various assumptions or factors are typically applied in drawing conclusions or making the forecasts or projections set out in forward-looking information. Those assumptions and factors are based on information currently available to the parties. The material factors and assumptions include regulatory and other third-party approvals; licensing and other risks. The forward-looking information contained in this release is made as of the date hereof and the parties are not obligated to update or revise any forward-looking information, whether as a result of new information, future events or otherwise, except as required by applicable securities laws. Because of the risks, uncertainties and assumptions contained herein, investors should not place undue reliance on forward-looking information. The foregoing statements expressly qualify any forward-looking information contained herein.</span></p>
+<p class="av"><span>&nbsp;</span></p>
+<p class="av"><span>*Endnotes:</span></p>
+<p class="bg"><span>1.&nbsp;&nbsp;&nbsp; The BIOENSIS laboratory report</span></p>
+<p class="bh"><span>2.&nbsp;&nbsp;&nbsp; <a href="https://www.prnewswire.com/news-releases/combined-apollon-and-aion-formulations-kill-breast-cancer-cells-through-multiple-pathways-301294012.html">https://www.prnewswire.com/news-releases/combined-apollon-and-aion-formulations-kill-breast-cancer-cells-through-multiple-pathways-301294012.html</a> </span></p>
+<p class="bh"><span>3.&nbsp;&nbsp;&nbsp; <a href="https://www.aquis.eu/aquis-stock-exchange/for-investors/announcements?view_news_id=3143086">https://www.aquis.eu/aquis-stock-exchange/for-investors/announcements?view_news_id=3143086</a></span></p>
+<p class="bh"><span>4.&nbsp;&nbsp;&nbsp; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497009/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497009/</a> </span></p>
+<p class="bh"><span>5.&nbsp;&nbsp;&nbsp; <a href="https://www.globenewswire.com/news-release/2020/10/01/2102496/0/en/Global-Prostate-Cancer-Treatment-Market-Is-Expected-to-Reach-USD-10-67-billion-by-2027-Fior-Markets.html">https://www.globenewswire.com/news-release/2020/10/01/2102496/0/en/Global-Prostate-Cancer-Treatment-Market-Is-Expected-to-Reach-USD-10-67-billion-by-2027-Fior-Markets.html</a> </span></p>
+<p class="bh"><span>6.&nbsp;&nbsp;&nbsp; The BIOENSIS laboratory report</span></p>
+<p class="bi"><span>7.&nbsp;&nbsp;&nbsp; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4791144/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4791144/</a> </span></p>
+<p class="av"><span>&nbsp;</span></p>
+<p class="av"><span>&nbsp;</span></p>
+<p class="a"><span>&nbsp;</span></p>
+</div>
+<div style="text-align:left;font-family:Arial, Helvetica, sans-serif; font-size: 10pt;"><div>This information is provided by RNS, the news service of the <org>London Stock Exchange</org>. RNS is approved by the <org>Financial Conduct Authority</org> to act as a Primary Information Provider in the United Kingdom. Terms and conditions relating to the use and distribution of this information may apply. For further information, please contact <a href="mailto:rns@lseg.com">rns@lseg.com</a> or visit <a href="http://www.rns.com/">www.rns.com</a>.<br><br>RNS may use your IP address to confirm compliance with the terms and conditions, to analyse how you engage with the information contained in this communication, and to share such analysis on an anonymised basis with others as part of our commercial services. For further information about how RNS and the <org>London Stock Exchange</org> use the personal data you provide us, please see our <a href="https://www.lseg.com/privacy-and-cookie-policy">Privacy Policy</a>.</div><div>&nbsp;</div>  END</div><div>&nbsp;</div><div>&nbsp;</div>NEXGZGMNLRDGMZM
+
+
+
+        <!-- End Story Content -->
+
+    
+
+</body></html>Ytext/html    ( F U l ~ î ö Ì Ód                           d
